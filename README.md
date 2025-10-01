@@ -1,21 +1,33 @@
 <h1 align="center">Hi 👋, I'm GIRI</h1>
-<h3 align="center">Final Year AI & Data Analytics Student | Eager to Learn & Contribute | Open to Opportunities in Data, AI & Development</h3>
+<h3 align="center">Final Year AI & Data Analytics Student | Eager to Learn & Contribute | Actively Seeking Roles</h3>
 
-<!-- GIF Section -->
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/your-username/your-repo/main/images/coding.gif">
+<!-- Intro Section with GIF -->
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
-- 🔭 I’m currently working on **SharBit - A Food Surplus App**
-
-- 🌱 I’m currently learning **Data Structure, Deep Learning**
-
-- 💬 Ask me about **Java, AI & ML, Deep Learning, Python**
-
+- 🔭 I’m currently working on **SharBit - A Food Surplus App**  
+- 🌱 I’m currently learning **Data Structure, Deep Learning**  
+- 💬 Ask me about **Java, AI & ML, Deep Learning, Python**  
 - 📫 How to reach me **thegiridev30@gmail.com**
+
+   </td>
+    <td width="40%" valign="top">
+      <img src="https://raw.githubusercontent.com/Giridev30/Giridev30/main/GitAnime.gif" alt="coding gif" width="350">
+    </td>
+  </tr>
+</table>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/giri p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giri p" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/giri__30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="giri__30" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/giri p" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giri p" height="30" width="40" />
+</a>
+<a href="https://www.leetcode.com/giri__30" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="giri__30" height="30" width="40" />
+</a>
 </p>
 
 ---
