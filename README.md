@@ -29,15 +29,15 @@ Sri Ramachandra Institute, Porur
 📫 Reach me:
 **thegiridev30@gmail.com**
 
-</td>
+<td width="40%" valign="top">
 
-<td width="40%" valign="top" align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Giridev30/Giridev30/main/GitAnime.gif" width="350"/>
+<img src="https://raw.githubusercontent.com/Giridev30/Giridev30/main/GitAnime.gif" width="320"/>
 
-<br><br>
+<img src="https://raw.githubusercontent.com/Giridev30/Giridev30/main/GitHub_GIF.gif" width="320"/>
 
-<img src="https://raw.githubusercontent.com/Giridev30/Giridev30/main/GitHub_GIF.gif" width="350"/>
+</div>
 
 </td>
 </tr>
