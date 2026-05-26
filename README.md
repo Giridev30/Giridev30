@@ -31,8 +31,14 @@ Sri Ramachandra Institute, Porur
 
 </td>
 
-<td width="40%" valign="top">
+<td width="40%" valign="top" align="center">
+
 <img src="https://raw.githubusercontent.com/Giridev30/Giridev30/main/GitAnime.gif" width="350"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Giridev30/Giridev30/main/GitHub_GIF.gif" width="350"/>
+
 </td>
 </tr>
 </table>
