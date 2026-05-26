@@ -1,58 +1,79 @@
 <h1 align="center">Hi 👋, I'm GIRI</h1>
-<h3 align="center">Final Year AI & Data Analytics Student | Eager to Learn & Contribute | Actively Seeking Roles</h3>
 
-<!-- Intro Section with GIF -->
+<h3 align="center">
+MIS Executive | Junior Data Analyst | B.Sc Artificial Intelligence & Data Analytics Graduate
+</h3>
+
 <table>
-  <tr>
-    <td width="60%" valign="top">
+<tr>
+<td width="60%" valign="top">
 
-- 🔭 I’m currently working on **SharBit - A Food Surplus App**  
-- 🌱 I’m currently learning **Data Structure, Deep Learning**  
-- 💬 Ask me about **Java, AI & ML, Deep Learning, Python**  
-- 📫 How to reach me **thegiridev30@gmail.com**
+💼 Currently working as **MIS Executive** handling reporting, SQL queries, dashboards, and business data analysis
 
-   </td>
-    <td width="40%" valign="top">
-      <img src="https://raw.githubusercontent.com/Giridev30/Giridev30/main/GitAnime.gif" alt="coding gif" width="350">
-    </td>
-  </tr>
+🎓 Completed **B.Sc Artificial Intelligence & Data Analytics (AIDA)**  
+Sri Ramachandra Institute, Porur
+
+📊 Skilled in:
+**Excel | SQL | Power BI | Python | Data Cleaning | Data Visualization**
+
+📈 Interested in:
+- Data Analytics
+- Business Intelligence
+- Dashboard Development
+- Data Reporting
+- Business Analytics
+
+💬 Ask me about:
+**Excel, SQL, Power BI, Python, Data Analysis, Dashboard Building**
+
+📫 Reach me:
+**thegiridev30@gmail.com**
+
+</td>
+
+<td width="40%" valign="top">
+<img src="https://raw.githubusercontent.com/Giridev30/Giridev30/main/GitAnime.gif" width="350"/>
+</td>
+</tr>
 </table>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/giri p" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giri p" height="30" width="40" />
+
+<a href="YOUR_LINKEDIN">
+<img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+height="30"
+width="40"/>
 </a>
-<a href="https://www.leetcode.com/giri__30" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="giri__30" height="30" width="40" />
-</a>
+
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 📊 Skills & Tools
 
-#### 🖥️ Programming Languages
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-</p>
+| Category | Skills |
+|-----------|---------|
+| 💻 Languages | Python, SQL |
+| 📈 Data Analytics | Excel, Power BI, Data Cleaning, Data Analysis |
+| 📊 Visualization | Dashboard Development, Data Visualization, KPI Tracking |
+| 🗄 Database | MySQL, SQL Query Writing, Data Extraction |
+| 📋 Reporting | MIS Reporting, Data Modeling |
 
-#### 🌐 Web & Mobile Development
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-</p>
+---
 
-#### 📊 Data Science & AI
-<p align="left"> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-</p>
+## 📌 Current Focus
+
+| 🎯 Focus Areas |
+|----------------|
+| Building Data Analytics Projects |
+| Improving SQL & Power BI |
+| Business Data Analysis |
+
+---
+
+⭐ Transforming data into actionable insights.
