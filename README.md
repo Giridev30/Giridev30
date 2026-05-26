@@ -43,7 +43,7 @@ Sri Ramachandra Institute, Porur
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN">
+<a href="(https://www.linkedin.com/in/giri-p-394a48377/)">
 <img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 height="30"
