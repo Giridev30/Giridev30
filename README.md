@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GIRI</h1>
 
 <h3 align="center">
-MIS Executive | Junior Data Analyst | B.Sc Artificial Intelligence & Data Analytics Graduate
+ Junior Data Analyst | B.Sc Artificial Intelligence & Data Analytics Graduate
 </h3>
 
 <table>
